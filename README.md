@@ -1,0 +1,2 @@
+# CodeIsDocumentation
+Code is documentation
